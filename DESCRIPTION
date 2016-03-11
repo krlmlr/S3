@@ -2,7 +2,7 @@ Package: S3
 Title: 'S3' Helpers
 Version: 0.0-0
 Authors@R: person("Kirill", "Müller", role = c("aut", "cre"), email = "krlmlr+r@mailbox.org")
-Description: Small helper functions for creating S3 objects.
+Description: Small helper functions for implementing S3 classes.
 License: GPL-3
 LazyData: true
 Encoding: UTF-8
